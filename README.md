@@ -1,3 +1,3 @@
 # SD11GITHUB
 
-This is first repository created for the class lecture.
+This is the first main branch of the repository created for the class lecture.
